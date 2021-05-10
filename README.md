@@ -1,7 +1,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suprajaarthi&show_icons=true&theme=highcontrast&hide=contribs,prs" />
 </a>
 <a>
