@@ -3,4 +3,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprajarthi&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprajaarthi&show_icons=true)
