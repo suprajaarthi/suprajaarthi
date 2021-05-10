@@ -1,5 +1,5 @@
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suprajaarthi)](https://github.com/suprajaarthi/github-readme-stats)
+[![suprajaarthi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suprajaarthi)](https://github.com/suprajaarthi/github-readme-stats)
 
 
 
