@@ -23,7 +23,7 @@
 <h3 align="center">
     Connect with me:<img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="55" height="55"></h3>
 <p align="center"> 
-<a href="https://www.hackerrank.com/supr17318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="supr17318" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/supr17318" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="supr17318" height="30" width="40" /></a>
 <a href="https://github.com/suprajaarthi" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
     src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/linkedin-512.png" 
