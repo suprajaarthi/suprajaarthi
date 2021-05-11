@@ -1,5 +1,4 @@
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suprajaarthi&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 <a href="https://github.com/suprajaarthi/convoychat" />
@@ -9,3 +8,4 @@
 </a>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suprajaarthi&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
