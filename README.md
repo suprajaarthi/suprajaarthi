@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
-<h1 align="center">Hi <img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" >I'm Supraja Arthi</h1>
+<h1 align="center"><img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" width="40" height="40">I'm Supraja Arthi</h1>
 <h3 align="center">I'm a young enthusiastic Engineering graduate , interested in developing innovative solutions</h3>
 
 - 🔭 I like to explore **new technologies and develop quick hack solutions**
