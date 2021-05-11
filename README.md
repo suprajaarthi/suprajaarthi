@@ -7,3 +7,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suprajaarthi&show_icons=true&theme=highcontrast&hide=contribs,prs" />
 </a>
   
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​")
