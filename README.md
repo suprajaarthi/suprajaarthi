@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
 <h1 align="center">Hi 👋, I'm Supraja Arthi</h1>
-<h3 align="center">I'm a young enthusiastic Engineering graduate , interested in Frontend Web development and ML models</h3>
+<h3 align="center">I'm a young enthusiastic Engineering graduate , interested in developing innovative soltions</h3>
 
 - 🔭 I like to explore **new technologies and develop quick hack solutions**
 
