@@ -21,7 +21,7 @@
 - 📄 Have a look at my resume <b style="color:blue">https://cutt.ly/AbSrVl4</b>
 
 <h3 align="center">
-    Connect with me:</h3><img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="40" height="40">
+    Connect with me:<img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="40" height="40"></h3>
 <p align="center"> 
 <a href="https://github.com/suprajaarthi" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
