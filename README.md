@@ -1,6 +1,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
 <h1 align="center">Hi 👋, I'm Supraja Arthi</h1>
+<h3 align="center">I'm a young enthusiastic Engineering graduate , interested in Frontend Web development and ML models</h3>
+
+- 🔭 I like to explore **new technologies and develop quick hack solutions**
+
+- 🌱 I’m currently learning **Angular,C#,Azure**
+
+- 🧠 I love to work with **APIs and Games for fun**
+
+- 💬 Ask me about **Placement preparations , Logical Problem solving , DSA , Front-end frameworks , ML Algorithms**
+
+- 📫 How to reach me **suprajaarthi@gmail.com**
+
+- 📄 Have a look at my resume [https://drive.google.com/file/d/11QyQmK92eNz-c5IIpnZmdO6eOUQHCF0O/view?usp=sharing](https://drive.google.com/file/d/11QyQmK92eNz-c5IIpnZmdO6eOUQHCF0O/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/suprajaarthi" target="blank">
