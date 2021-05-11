@@ -21,7 +21,7 @@
 - 📄 Have a look at my resume https://cutt.ly/AbSrVl4
 
 <h3 align="center">
-    Connect with me:<img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="55" height="55"></h3>
+    Connect with me:<img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="35" height="35"></h3>
 <p align="center"> 
 <a href="https://www.hackerrank.com/supr17318" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="supr17318" height="40" width="40" /></a>
 <a href="https://github.com/suprajaarthi" target="blank">
