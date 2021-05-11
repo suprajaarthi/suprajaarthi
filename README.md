@@ -20,7 +20,7 @@
 
 - 📄 Have a look at my resume <b style="color:blue">https://cutt.ly/AbSrVl4</b>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><div class="tenor-gif-embed" data-postid="21502419" data-share-method="host" data-width="100%" data-aspect-ratio="0.47991967871485947"><a href="https://tenor.com/view/smms-social-media-makes-sense-social-media-facebook-instagram-gif-21502419">SMMS Social Media Makes Sense GIF</a> from <a href="https://tenor.com/search/smms-gifs">Smms GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/suprajaarthi" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
