@@ -8,19 +8,19 @@
     I'm &lt; Supraja Arthi ! &gt;</h1>
 <h3 align="center">I'm a young enthusiastic Engineering graduate , interested in developing innovative solutions</h3>
 
-- 🔭 I like to explore **new technologies and develop quick hack solutions**
+- 🔭 I like to explore *new technologies and develop quick hack solutions*
 
-- 🌱 I’m currently learning **Angular,C# and Azure**
+- 🌱 I’m currently learning *Angular,C# and Azure*
 
-- 🧠 I love to work with **APIs and Games for fun**
+- 🧠 I love to work with *APIs and Games for fun*
 
-- 💬 Ask me about **Placement preparations , Logical Problem solving , DSA , Front-end frameworks , ML Algorithms**
+- 💬 Ask me about *Placement preparations , Logical Problem solving , DSA , Front-end frameworks , ML Algorithms*
 
-- 📫 Reach me **suprajaarthi@gmail.com**
+- 📫 Reach me *suprajaarthi@gmail.com*
 
 - 📄 Have a look at my resume <b style="color:blue">https://cutt.ly/AbSrVl4</b>
 
-<h3 align="center"><div class="tenor-gif-embed" data-postid="21502419" data-share-method="host" data-width="100%" data-aspect-ratio="0.47991967871485947"><a href="https://tenor.com/view/smms-social-media-makes-sense-social-media-facebook-instagram-gif-21502419">SMMS Social Media Makes Sense GIF</a> from <a href="https://tenor.com/search/smms-gifs">Smms GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/suprajaarthi" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
