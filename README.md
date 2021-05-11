@@ -18,7 +18,7 @@
 
 - 📫 Reach me *suprajaarthi@gmail.com*
 
-- 📄 Have a look at my resume <b >https://cutt.ly/AbSrVl4</b>
+- 📄 Have a look at my resume https://cutt.ly/AbSrVl4
 
 <h3 align="center">
     Connect with me:<img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif" width="55" height="55"></h3>
