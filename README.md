@@ -31,7 +31,7 @@
      height="40" width="40" /></a><a href="https://codepen.io/suprajaarthi" target="blank">
     <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-network-10/50/56-512.png" alt="suprajaarthi" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/suprajaarthi" 
-target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="suprajaarthi" height="40" width="40" /></a>
+target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://instagram.com/supraja_arthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="supraja_arthi" height="30" width="40" /></a>
 
 
 </p>
