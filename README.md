@@ -20,7 +20,7 @@
 
 - 📄 Have a look at my resume <b style="color:blue">https://cutt.ly/AbSrVl4</b>
 
-<h3 align="center"><img src="https://tenor.com/view/smms-social-media-makes-sense-social-media-facebook-instagram-gif-21502419">
+<h3 align="center"><img src="https://c.tenor.com/d-bGqdU6wQEAAAAj/cute-dragon-handshake.gif">
     Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/suprajaarthi" target="blank">
