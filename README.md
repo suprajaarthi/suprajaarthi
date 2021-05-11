@@ -4,13 +4,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/suprajaarthi" target="blank">
-    <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a>
-    <a href="https://codepen.io/suprajaarthi" target="blank">
-    <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-network-10/50/56-512.png" alt="suprajaarthi" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
+    <img align="center" src="https://i.pinimg.com/originals/48/e0/73/48e07378e01dd719c060c1f2f2b5cb00.png" alt="suprajaarthi" height="40" width="40" /></a><a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" 
     src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/linkedin-512.png" 
     alt="supraja-arthi"
-     height="40" width="40" /></a><a href="https://www.leetcode.com/suprajaarthi" 
+     height="40" width="40" /></a><a href="https://codepen.io/suprajaarthi" target="blank">
+    <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-network-10/50/56-512.png" alt="suprajaarthi" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/suprajaarthi" 
 target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="suprajaarthi" height="40" width="40" /></a>
 
 
