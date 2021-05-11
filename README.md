@@ -9,7 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 <h1 align="center">Hi 👋, I'm Supraja Arthi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suprajaarthi" alt="suprajaarthi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
