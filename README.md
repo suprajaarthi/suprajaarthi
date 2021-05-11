@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suprajaarthi@gmail.com**
 
-- 📄 Have a look at my resume [https://cutt.ly/AbSrVl4)
+- 📄 Have a look at my resume <b>https://cutt.ly/AbSrVl4</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/suprajaarthi" target="blank">
