@@ -4,7 +4,7 @@
 <!-- <img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" width="80" height="80">  -->
 <!--     <img src="https://media.tenor.com/images/7b55e2db55f259f5a90ff8150686b0b9/tenor.gif" width="80" height="80"> -->
 <!--     <img src="https://media.tenor.com/images/ebb65bb0ca7bdd155c198a066ecfcb92/tenor.gif"  width="180" height="120"> -->
-    <img src="https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif"  width="40" height="40">
+    <img src="https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif"  width="70" height="70">
     I'm Supraja Arthi</h1>
 <h3 align="center">I'm a young enthusiastic Engineering graduate , interested in developing innovative solutions</h3>
 
