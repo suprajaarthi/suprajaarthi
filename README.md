@@ -5,7 +5,7 @@
 
 - 🔭 I like to explore **new technologies and develop quick hack solutions**
 
-- 🌱 I’m currently learning **Angular,C#,Azure**
+- 🌱 I’m currently learning **Angular,C# and Azure**
 
 - 🧠 I love to work with **APIs and Games for fun**
 
