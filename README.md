@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/suprajaarthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/suprajaarthi/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/supraja-arthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supraja-arthi/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/suprajaarthis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/suprajaarthis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/supr17318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/supr17318" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suprajaarthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suprajaarthi/" height="30" width="40" /></a>
+<a href="https://codepen.io/suprajaarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="suprajaarthi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supraja-arthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="supraja-arthi" height="30" width="40" /></a>
+<a href="https://kaggle.com/suprajaarthis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="suprajaarthis" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/supr17318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="supr17318" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suprajaarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="suprajaarthi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
