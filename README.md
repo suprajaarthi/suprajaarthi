@@ -5,7 +5,7 @@
     <img src="https://media.tenor.com/images/2714cf06b9ae1bba27e31a30ad43997e/tenor.gif" width="100" height="100">
 <!--     <img src="https://media.tenor.com/images/ebb65bb0ca7bdd155c198a066ecfcb92/tenor.gif"  width="70" height="70"> -->
 <!--     <img src="https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif"  width="70" height="70"> -->
-    I'm &lt; Supraja Arthi &gt; </h1>
+    I'm &lt; Supraja Arthi &gt;! </h1>
 <h3 align="center">I'm a young enthusiastic Engineering graduate , interested in developing innovative solutions</h3>
 
 - 🔭 I like to explore **new technologies and develop quick hack solutions**
@@ -18,7 +18,7 @@
 
 - 📫 Reach me **suprajaarthi@gmail.com**
 
-- 📄 Have a look at my resume <b>https://cutt.ly/AbSrVl4</b>
+- 📄 Have a look at my resume <b style="color:blue">https://cutt.ly/AbSrVl4</b>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
