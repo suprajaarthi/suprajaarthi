@@ -43,7 +43,7 @@ target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/c
 
 
 <a href="https://github.com/suprajaarthi/convoychat" />
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6&theme=highcontrast&amp)](https://github.com/suprajarthi/github-readme-stats" /> 
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprajaarthi&layout=compact&langs_count=6&theme=highcontrast&amp)](https://github.com/suprajarthi/github-readme-stats" /> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suprajaarthi&show_icons=true&theme=highcontrast" />
 </a>
