@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70256&size=21&lines=I'm+%3C+Supraja+Arthi+!%3E)](https://git.io/typing-svg)
 <h1 align="center">
 <!-- <img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" width="80" height="80">  -->
     <img src="https://media.tenor.com/images/2714cf06b9ae1bba27e31a30ad43997e/tenor.gif" width="100" height="100">
