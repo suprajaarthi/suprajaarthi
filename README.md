@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70045&size=21&vCenter=true&lines=Happy+Coding+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=21&center=true&vCenter=true&lines=Happy+Coding+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 <h1 align="center">
 <!-- <img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" width="80" height="80">  -->
