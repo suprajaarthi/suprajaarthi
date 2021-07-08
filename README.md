@@ -6,7 +6,7 @@
 <!--     <img src="https://media.tenor.com/images/ebb65bb0ca7bdd155c198a066ecfcb92/tenor.gif"  width="70" height="70"> -->
 <!--     <img src="https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif"  width="70" height="70"> -->
     I'm <i> &lt; Supraja Arthi !&gt; </i></h1>
-<h3 align="center">I'm a young enthusiastic Engineering graduate, interested in developing innovative solutions</h3>
+<h3 align="center">Hey Coders here , I'm a young enthusiastic Engineering graduate, interested in developing innovative solutions</h3>
 
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 
