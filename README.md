@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning *Angular,C# and Data science*
 
-- 🧠 I love to work with *APIs and Games*
+- 🧠 I love to work with *APIs and Services*
 
 - 💬 Ask me about *Placement preparations , Logical Problem solving , DSA , Front-end frameworks , ML Algorithms*
 
