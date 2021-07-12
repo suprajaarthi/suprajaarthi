@@ -10,9 +10,9 @@
 
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 
-- 🌱 I’m currently learning *Angular,C# and Azure*
+- 🌱 I’m currently learning *Angular,C# and Data science*
 
-- 🧠 I love to work with *APIs and Games for fun*
+- 🧠 I love to work with *APIs and Games*
 
 - 💬 Ask me about *Placement preparations , Logical Problem solving , DSA , Front-end frameworks , ML Algorithms*
 
