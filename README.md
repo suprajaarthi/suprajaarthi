@@ -1,5 +1,5 @@
 
-   &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=25FF00&size=21&center=true&vCenter=true&lines=Hey+Coders+,+Happy+BugFixing+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
+   &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=25FF00&size=21&center=true&vCenter=true&lines=Hey+Techies+,+Happy+BugFixing+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 <h1 align="center">
 <!-- <img src="https://media.tenor.com/images/17b0c7bcc4b67786670cae5684285dab/tenor.gif" width="80" height="80">  -->
     <img src="https://media.tenor.com/images/2714cf06b9ae1bba27e31a30ad43997e/tenor.gif" width="100" height="100">
